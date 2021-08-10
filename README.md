@@ -2,7 +2,7 @@
 - 👀 I’m interested in Machine Learning and Data analysis
 - 🌱 I’m currently learning Mathematics and Informatics
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me: https://www.facebook.com/huong210201
 
 <!---
 ngthuyn/ngthuyn is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
